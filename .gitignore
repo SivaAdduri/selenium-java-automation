@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Allure result and report directories
+allure-results/
+allure-report/
+
+# Logs
+*.log
